@@ -5,7 +5,7 @@ export default function Contact() {
     <div id="contact">
       <div className="title2 pt-3 pb-4 fs-7 px-1 d-flex justify-content-between text-dark">
         <div>
-          <i className="bi bi-c-circle me-1"></i> 2024 Yannik Bauer
+          <i className="bi bi-c-circle me-1"></i> 2025 Yannik Bauer
         </div>
         <div>
           <a

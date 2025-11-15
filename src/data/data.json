@@ -209,8 +209,8 @@
           "inescTec.png",
           "fcup.png"
         ],
-        "time": "2024 -",
-        "timeComplete": "Sep. 2024 -",
+        "time": "2024 - 2025",
+        "timeComplete": "Sep. 2024 - Sep. 2025",
         "details": {
           "description": "The project aims is to provide a framework for application of gamification to programming education, including creating a demo course and researching LLMs for course content generation.",
           "material": [
@@ -335,6 +335,16 @@
       "publisher": "",
       "authors": "Y. Bauer, J.P. Leal, R. Queirós",
       "authorsComplete": "Yannik Bauer, José Paulo Leal, Ricardo Queirós"
+    },
+    {
+      "title": "Designing a Multi-Narrative Gamified Learning Experience",
+      "type": "Short Paper",
+      "date": "15.09.2025",
+      "pdf": "https://drops.dagstuhl.de/storage/01oasics/oasics-vol133-icpec2025/OASIcs.ICPEC.2025.15/OASIcs.ICPEC.2025.15.pdf",
+      "publisher": "https://doi.org/10.4230/OASIcs.ICPEC.2025.15",
+      "authors": "Y. Bauer, J.P. Leal, R. Queirós, J. Swacha, J. Paiva",
+      "authorsComplete": "Yannik Bauer, José Paulo Leal, Ricardo Queirós, Jakub Swacha, José Paiva",
+      "abstract": "The combination of storytelling and gamification in educational settings has emerged as a method to enhance student engagement and learning outcomes. Through an overarching narrative, course content can be connected while providing context for gamified exercises, creating a motivating and competitive learning experience. However, a narrative that resonates with one student may not interest others. The presented solution to this problem is to offer multiple narratives for students to choose from. This enables the students to engage with the material in ways that align with their interests and motivations. Yet, managing multiple narratives presents several challenges. Each narrative must cover all syllabus topics equally, and every exercise must be available across all narratives while maintaining consistent difficulty levels and learning objectives. This paper presents a systematic approach for creating gamified courses with multiple narratives. The methodology includes the development of a base course template and its narrative variations, along with transformation processes to generate exercises in the FGPE Ecosystem, namely AuthorKit and FGPE PLE. The final output is a single Moodle MBZ file that can be imported into Moodle, a widely adopted learning management system."
     },
     {
       "title": "Authoring Programming Exercises for Automated Assessment Assisted by Generative AI",
