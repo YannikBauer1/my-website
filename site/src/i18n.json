@@ -1,0 +1,466 @@
+{
+ "Skip to content": {
+  "de": "Zum Inhalt springen",
+  "pt": "Saltar para o conteúdo"
+ },
+ "Work": {
+  "de": "Arbeiten",
+  "pt": "Trabalho"
+ },
+ "Credentials": {
+  "de": "Werdegang",
+  "pt": "Percurso"
+ },
+ "Get in touch": {
+  "de": "Kontaktiere mich",
+  "pt": "Entrar em contacto"
+ },
+ "German, Portuguese, English": {
+  "de": "Deutsch, Portugiesisch, Englisch",
+  "pt": "Alemão, português, inglês"
+ },
+ "Tell me what you are building.": {
+  "de": "Erzähl mir von deinem Projekt.",
+  "pt": "Diz-me o que queres construir."
+ },
+ "Yannik Bauer, software developer. 2026.": {
+  "de": "Yannik Bauer, Softwareentwickler. 2026.",
+  "pt": "Yannik Bauer, programador de software. 2026."
+ },
+ "Legal notice": {
+  "de": "Impressum",
+  "pt": "Aviso legal"
+ },
+ "Privacy": {
+  "de": "Datenschutz",
+  "pt": "Privacidade"
+ },
+ "Pages": {
+  "de": "Seiten",
+  "pt": "Páginas"
+ },
+ "Language": {
+  "de": "Sprache",
+  "pt": "Idioma"
+ },
+ "I build apps, websites and AI automations.": {
+  "de": "Ich baue Apps, Websites und KI-Automatisierungen.",
+  "pt": "Crio apps, websites e automações com IA."
+ },
+ "See the work": {
+  "de": "Arbeiten ansehen",
+  "pt": "Ver o trabalho"
+ },
+ "Built to ~10,000 users in two years.": {
+  "de": "In zwei Jahren auf ~10.000 Nutzer gebracht.",
+  "pt": "~10.000 utilizadores em dois anos."
+ },
+ "BTS Insights, the #1 app for pro bodybuilding fans. I do all of it: the apps, the content, the marketing.": {
+  "de": "BTS Insights, die Nr. 1 App für Fans des Profi-Bodybuildings. Ich mache alles selbst: die Apps, die Inhalte, das Marketing.",
+  "pt": "BTS Insights, a app n.º 1 para fãs de culturismo profissional. Faço tudo: as apps, os conteúdos, o marketing."
+ },
+ "More about the app": {
+  "de": "Mehr zur App",
+  "pt": "Mais sobre a app"
+ },
+ "Websites for local businesses.": {
+  "de": "Websites für lokale Unternehmen.",
+  "pt": "Websites para negócios locais."
+ },
+ "Made so a visitor finds what they came for in seconds, then calls or books.": {
+  "de": "So gebaut, dass Besucher in Sekunden finden, was sie suchen, und dann anrufen oder buchen.",
+  "pt": "Feitos para que o visitante encontre em segundos o que procura e depois ligue ou marque."
+ },
+ "See the websites": {
+  "de": "Websites ansehen",
+  "pt": "Ver os websites"
+ },
+ "Email replies": {
+  "de": "E-Mail-Antworten",
+  "pt": "Respostas a emails"
+ },
+ "Email arrives": {
+  "de": "E-Mail kommt an",
+  "pt": "Chega um email"
+ },
+ "AI reads and drafts": {
+  "de": "KI liest und entwirft",
+  "pt": "A IA lê e redige"
+ },
+ "Reply sent": {
+  "de": "Antwort gesendet",
+  "pt": "Resposta enviada"
+ },
+ "Payment reminders": {
+  "de": "Zahlungserinnerungen",
+  "pt": "Lembretes de pagamento"
+ },
+ "Payment missed": {
+  "de": "Zahlung offen",
+  "pt": "Pagamento em falta"
+ },
+ "Reminder written": {
+  "de": "Erinnerung geschrieben",
+  "pt": "Lembrete redigido"
+ },
+ "Follows up until paid": {
+  "de": "Fasst nach, bis bezahlt ist",
+  "pt": "Insiste até estar pago"
+ },
+ "AI automations": {
+  "de": "KI-Automatisierungen",
+  "pt": "Automações com IA"
+ },
+ "The routine work, handed to AI.": {
+  "de": "Die Routinearbeit übernimmt die KI.",
+  "pt": "O trabalho de rotina, entregue à IA."
+ },
+ "Emails, reminders, follow-ups. Set up once, then they run on their own.": {
+  "de": "E-Mails, Erinnerungen, Nachfassen. Einmal eingerichtet, dann läuft es von selbst.",
+  "pt": "Emails, lembretes, seguimentos. Configura-se uma vez e depois funciona sozinho."
+ },
+ "~10,000": {
+  "de": "~10.000",
+  "pt": "~10.000"
+ },
+ "The #1 app for pro bodybuilding fans worldwide. Every show, every result, every athlete. I built it, run it and market it on my own.": {
+  "de": "Die Nr. 1 App für Fans des Profi-Bodybuildings weltweit. Jede Show, jedes Ergebnis, jeder Athlet. Gebaut, betrieben und vermarktet von mir allein.",
+  "pt": "A app n.º 1 para fãs de culturismo profissional em todo o mundo. Todas as provas, todos os resultados, todos os atletas. Criada, gerida e promovida por mim, sozinho."
+ },
+ "users worldwide, and still growing": {
+  "de": "Nutzer weltweit, Tendenz steigend",
+  "pt": "utilizadores em todo o mundo, e a crescer"
+ },
+ "Inside.": {
+  "de": "Inhalt.",
+  "pt": "Lá dentro."
+ },
+ "Every result, all athlete careers, head to head, the show calendar.": {
+  "de": "Alle Ergebnisse, alle Athletenkarrieren, direkte Duelle, der Wettkampfkalender.",
+  "pt": "Todos os resultados, todas as carreiras dos atletas, confrontos diretos, o calendário de provas."
+ },
+ "First of its kind.": {
+  "de": "Die Erste ihrer Art.",
+  "pt": "A primeira do género."
+ },
+ "Fans predict the shows and compete on their picks.": {
+  "de": "Fans tippen die Shows und messen sich mit ihren Tipps.",
+  "pt": "Os fãs fazem prognósticos das provas e competem entre si."
+ },
+ "Built with.": {
+  "de": "Gebaut mit.",
+  "pt": "Feita com."
+ },
+ "Native iOS and Android: SwiftUI, Kotlin, Supabase.": {
+  "de": "Nativ für iOS und Android: SwiftUI, Kotlin, Supabase.",
+  "pt": "Nativa para iOS e Android: SwiftUI, Kotlin, Supabase."
+ },
+ "Download on the": {
+  "de": "Laden im",
+  "pt": "Descarregar na"
+ },
+ "Get it on": {
+  "de": "Jetzt bei",
+  "pt": "Disponível no"
+ },
+ "For local businesses": {
+  "de": "Für lokale Unternehmen",
+  "pt": "Para negócios locais"
+ },
+ "A gym in Bad Kissingen. New website, and I run the gym's IT.": {
+  "de": "Ein Fitnessstudio in Bad Kissingen. Neue Website, außerdem betreue ich die IT.",
+  "pt": "Um ginásio em Bad Kissingen. Novo website, e também trato da informática do ginásio."
+ },
+ "Preview": {
+  "de": "Vorschau",
+  "pt": "Pré-visualização"
+ },
+ "A building cleaning company in Bad Kissingen. Full relaunch.": {
+  "de": "Eine Gebäudereinigung in Bad Kissingen. Kompletter Relaunch.",
+  "pt": "Uma empresa de limpeza de edifícios em Bad Kissingen. Relançamento completo."
+ },
+ "A rehabilitation sports provider. New website with online course booking.": {
+  "de": "Ein Anbieter für Rehasport. Neue Website mit Online-Kursbuchung.",
+  "pt": "Um prestador de desporto de reabilitação. Novo website com marcação de aulas online."
+ },
+ "Research": {
+  "de": "Forschung",
+  "pt": "Investigação"
+ },
+ "Published research": {
+  "de": "Veröffentlichte Forschung",
+  "pt": "Investigação publicada"
+ },
+ "Written at the University of Porto and INESC TEC, where the research included using LLMs to generate course content.": {
+  "de": "Entstanden an der Universität Porto und am INESC TEC. Dort habe ich unter anderem erforscht, wie LLMs Kursinhalte erzeugen.",
+  "pt": "Escrita na Universidade do Porto e no INESC TEC, onde a investigação incluiu o uso de LLMs para gerar conteúdos de cursos."
+ },
+ "Paper, ICPEC 2025": {
+  "de": "Paper, ICPEC 2025",
+  "pt": "Artigo, ICPEC 2025"
+ },
+ "Paper, ICPEC 2024": {
+  "de": "Paper, ICPEC 2024",
+  "pt": "Artigo, ICPEC 2024"
+ },
+ "Paper, ICPEC 2023": {
+  "de": "Paper, ICPEC 2023",
+  "pt": "Artigo, ICPEC 2023"
+ },
+ "Master's thesis, 2023. Graded 19 of 20.": {
+  "de": "Masterarbeit, 2023. Note 19 von 20.",
+  "pt": "Dissertação de mestrado, 2023. Classificação: 19 em 20."
+ },
+ "Master's thesis 2023": {
+  "de": "Masterarbeit 2023",
+  "pt": "Dissertação de mestrado 2023"
+ },
+ "Background": {
+  "de": "Hintergrund",
+  "pt": "Percurso"
+ },
+ "Education and research": {
+  "de": "Ausbildung und Forschung",
+  "pt": "Formação e investigação"
+ },
+ "2024 to 2025": {
+  "de": "2024 bis 2025",
+  "pt": "2024 a 2025"
+ },
+ "2022 to 2023": {
+  "de": "2022 bis 2023",
+  "pt": "2022 a 2023"
+ },
+ "2021 to 2023": {
+  "de": "2021 bis 2023",
+  "pt": "2021 a 2023"
+ },
+ "2018 to 2021": {
+  "de": "2018 bis 2021",
+  "pt": "2018 a 2021"
+ },
+ "Researcher, INESC TEC": {
+  "de": "Forscher, INESC TEC",
+  "pt": "Investigador, INESC TEC"
+ },
+ "Gamified programming education, and LLMs for generating course content.": {
+  "de": "Gamifizierter Programmierunterricht und LLMs zur Erzeugung von Kursinhalten.",
+  "pt": "Ensino de programação gamificado e LLMs para gerar conteúdos de cursos."
+ },
+ "Utah Tech University, United States. Certificate.": {
+  "de": "Utah Tech University, USA. Zertifikat.",
+  "pt": "Utah Tech University, Estados Unidos. Certificado."
+ },
+ "A framework for gamified programming education.": {
+  "de": "Ein Framework für gamifizierten Programmierunterricht.",
+  "pt": "Uma framework para o ensino de programação gamificado."
+ },
+ "Master's in Computer Science": {
+  "de": "Master in Informatik",
+  "pt": "Mestrado em Ciência de Computadores"
+ },
+ "University of Porto. Thesis graded 19 of 20.": {
+  "de": "Universität Porto. Masterarbeit mit 19 von 20 bewertet.",
+  "pt": "Universidade do Porto. Dissertação classificada com 19 em 20."
+ },
+ "Bachelor's in Mathematics": {
+  "de": "Bachelor in Mathematik",
+  "pt": "Licenciatura em Matemática"
+ },
+ "University of Porto.": {
+  "de": "Universität Porto.",
+  "pt": "Universidade do Porto."
+ },
+ "Impressum": {
+  "de": "Anbieter",
+  "pt": "Identificação"
+ },
+ "Information according to § 5 DDG": {
+  "de": "Angaben gemäß § 5 DDG",
+  "pt": "Informações nos termos do § 5 da DDG (lei alemã)"
+ },
+ "Street and number": {
+  "de": "Straße und Hausnummer",
+  "pt": "Rua e número"
+ },
+ "Postcode and city": {
+  "de": "PLZ und Ort",
+  "pt": "Código postal e localidade"
+ },
+ "Country": {
+  "de": "Land",
+  "pt": "País"
+ },
+ "Contact": {
+  "de": "Kontakt",
+  "pt": "Contacto"
+ },
+ "Germany": {
+  "de": "Deutschland",
+  "pt": "Alemanha"
+ },
+ "Email:": {
+  "de": "E-Mail:",
+  "pt": "Email:"
+ },
+ "Phone:": {
+  "de": "Telefon:",
+  "pt": "Telefone:"
+ },
+ "Phone number": {
+  "de": "Telefonnummer",
+  "pt": "Número de telefone"
+ },
+ "VAT": {
+  "de": "Umsatzsteuer",
+  "pt": "IVA"
+ },
+ "VAT ID according to § 27a UStG, or remove this section if you have none": {
+  "de": "Umsatzsteuer-ID gemäß § 27a UStG, oder diesen Abschnitt entfernen, falls keine vorhanden",
+  "pt": "Número de IVA nos termos do § 27a UStG, ou remover esta secção se não existir"
+ },
+ "Responsible for the content": {
+  "de": "Verantwortlich für den Inhalt",
+  "pt": "Responsável pelo conteúdo"
+ },
+ "Yannik Bauer, address as above.": {
+  "de": "Yannik Bauer, Anschrift wie oben.",
+  "pt": "Yannik Bauer, morada acima."
+ },
+ "Who is responsible": {
+  "de": "Verantwortlicher",
+  "pt": "Responsável"
+ },
+ "Yannik Bauer, contact details in the": {
+  "de": "Yannik Bauer, Kontaktdaten im",
+  "pt": "Yannik Bauer, contactos no"
+ },
+ "legal notice": {
+  "de": "Impressum",
+  "pt": "aviso legal"
+ },
+ "What this site does": {
+  "de": "Was diese Website tut",
+  "pt": "O que este site faz"
+ },
+ "This site has no accounts, no forms, no cookies and no analytics. It does not track you.": {
+  "de": "Diese Website hat keine Konten, keine Formulare, keine Cookies und keine Analyse. Sie verfolgt dich nicht.",
+  "pt": "Este site não tem contas, formulários, cookies nem análise de dados. Não te segue."
+ },
+ "Hosting": {
+  "de": "Hosting",
+  "pt": "Alojamento"
+ },
+ "The site is hosted by Netlify. When you open a page, Netlify processes your IP address and basic request data in server logs to deliver the site and keep it secure (Art. 6 (1) (f) GDPR).": {
+  "de": "Die Website wird bei Netlify gehostet. Beim Aufruf einer Seite verarbeitet Netlify deine IP-Adresse und grundlegende Anfragedaten in Server-Logs, um die Website auszuliefern und abzusichern (Art. 6 Abs. 1 lit. f DSGVO).",
+  "pt": "O site está alojado na Netlify. Quando abres uma página, a Netlify trata o teu endereço IP e dados básicos do pedido nos registos do servidor, para entregar o site e mantê-lo seguro (art. 6.º, n.º 1, al. f) do RGPD)."
+ },
+ "Fonts": {
+  "de": "Schriften",
+  "pt": "Tipos de letra"
+ },
+ "The fonts are served from this site. No font provider is contacted when you open a page.": {
+  "de": "Die Schriften werden von dieser Website ausgeliefert. Beim Aufruf einer Seite wird kein Schriftanbieter kontaktiert.",
+  "pt": "Os tipos de letra são servidos a partir deste site. Nenhum fornecedor de tipos de letra é contactado quando abres uma página."
+ },
+ "Contact by email": {
+  "de": "Kontakt per E-Mail",
+  "pt": "Contacto por email"
+ },
+ "If you write to me, I use your message and address only to answer you.": {
+  "de": "Wenn du mir schreibst, verwende ich deine Nachricht und Adresse nur, um dir zu antworten.",
+  "pt": "Se me escreveres, uso a tua mensagem e o teu endereço apenas para te responder."
+ },
+ "Your rights": {
+  "de": "Deine Rechte",
+  "pt": "Os teus direitos"
+ },
+ "You can ask what data I hold about you and have it corrected or deleted. You can also complain to a data protection authority.": {
+  "de": "Du kannst Auskunft über deine gespeicherten Daten verlangen und sie berichtigen oder löschen lassen. Du kannst dich außerdem bei einer Datenschutzbehörde beschweren.",
+  "pt": "Podes pedir informação sobre os dados que guardo sobre ti e pedir a sua correção ou eliminação. Podes também apresentar queixa a uma autoridade de proteção de dados."
+ },
+ "Legal notice (Impressum) for yannik-bauer.me.": {
+  "de": "Impressum von yannik-bauer.me.",
+  "pt": "Aviso legal de yannik-bauer.me."
+ },
+ "Privacy information for yannik-bauer.me.": {
+  "de": "Datenschutzhinweise von yannik-bauer.me.",
+  "pt": "Informação de privacidade de yannik-bauer.me."
+ },
+ "BTS Insights on iPhone: results of the 2026 Olympia with placings and judges' scores.": {
+  "de": "BTS Insights auf dem iPhone: Ergebnisse des Olympia 2026 mit Platzierungen und Wertungen.",
+  "pt": "BTS Insights no iPhone: resultados do Olympia 2026 com classificações e pontuações."
+ },
+ "Results of the 2026 Olympia in BTS Insights, with placings and judges' scores.": {
+  "de": "Ergebnisse des Olympia 2026 in BTS Insights, mit Platzierungen und Wertungen.",
+  "pt": "Resultados do Olympia 2026 na BTS Insights, com classificações e pontuações."
+ },
+ "An athlete profile in BTS Insights.": {
+  "de": "Ein Athletenprofil in BTS Insights.",
+  "pt": "Um perfil de atleta na BTS Insights."
+ },
+ "BTS Insights on Instagram": {
+  "de": "BTS Insights auf Instagram",
+  "pt": "BTS Insights no Instagram"
+ },
+ "The new GoFit website.": {
+  "de": "Die neue GoFit-Website.",
+  "pt": "O novo website da GoFit."
+ },
+ "The new Rehasport Bad Kissingen website.": {
+  "de": "Die neue Website von Rehasport Bad Kissingen.",
+  "pt": "O novo website da Rehasport Bad Kissingen."
+ },
+ "The new website of Saifi's Gebäudereinigung.": {
+  "de": "Die neue Website von Saifi's Gebäudereinigung.",
+  "pt": "O novo website da Saifi's Gebäudereinigung."
+ },
+ "The new GoFit website: the gym floor with the GoFit Bad Kissingen sign and the site navigation.": {
+  "de": "Die neue GoFit-Website: die Trainingsfläche mit dem Schriftzug GoFit Bad Kissingen und der Navigation.",
+  "pt": "O novo website da GoFit: a sala de treino com o letreiro GoFit Bad Kissingen e a navegação."
+ },
+ "The new website of Saifi's Gebäudereinigung: headline Wieder klar sehen over a window being wiped clean.": {
+  "de": "Die neue Website von Saifi's Gebäudereinigung: die Überschrift Wieder klar sehen über einem Fenster, das sauber gewischt wird.",
+  "pt": "O novo website da Saifi's Gebäudereinigung: o título Wieder klar sehen sobre uma janela a ser limpa."
+ },
+ "The new Rehasport Bad Kissingen website: headline Rehasport in Bad Kissingen beside a woman exercising with a ball.": {
+  "de": "Die neue Website von Rehasport Bad Kissingen: die Überschrift Rehasport in Bad Kissingen neben einer Frau, die mit einem Ball trainiert.",
+  "pt": "O novo website da Rehasport Bad Kissingen: o título Rehasport in Bad Kissingen ao lado de uma mulher a fazer exercício com uma bola."
+ },
+ "Two automations drawn as flows. An email arrives, AI reads it and drafts a reply, the reply is sent. A payment is missed, a reminder is written, it follows up until paid.": {
+  "de": "Zwei Automatisierungen als Abläufe. Eine E-Mail kommt an, die KI liest sie und entwirft eine Antwort, die Antwort wird gesendet. Eine Zahlung bleibt offen, eine Erinnerung wird geschrieben, es wird nachgefasst, bis bezahlt ist.",
+  "pt": "Duas automações desenhadas como fluxos. Chega um email, a IA lê e redige uma resposta, a resposta é enviada. Um pagamento fica em falta, é redigido um lembrete, insiste-se até estar pago."
+ },
+ "Yannik Bauer: Apps, Websites and AI Automations": {
+  "de": "Yannik Bauer: Apps, Websites und KI-Automatisierung",
+  "pt": "Yannik Bauer: apps, websites e automações com IA"
+ },
+ "Work: BTS Insights app and business websites | Yannik Bauer": {
+  "de": "Arbeiten: BTS Insights App und Websites | Yannik Bauer",
+  "pt": "Trabalho: app BTS Insights e websites | Yannik Bauer"
+ },
+ "Credentials: Master's, research and papers | Yannik Bauer": {
+  "de": "Werdegang: Master, Forschung und Paper | Yannik Bauer",
+  "pt": "Percurso: mestrado, investigação e artigos | Yannik Bauer"
+ },
+ "Legal notice | Yannik Bauer": {
+  "de": "Impressum | Yannik Bauer",
+  "pt": "Aviso legal | Yannik Bauer"
+ },
+ "Privacy | Yannik Bauer": {
+  "de": "Datenschutz | Yannik Bauer",
+  "pt": "Privacidade | Yannik Bauer"
+ },
+ "Yannik Bauer is a software developer who builds apps, websites and AI automations. His app BTS Insights reached ~10,000 users in two years.": {
+  "de": "Yannik Bauer ist Softwareentwickler und baut Apps, Websites und KI-Automatisierungen. Seine App BTS Insights hat in zwei Jahren ~10.000 Nutzer erreicht.",
+  "pt": "Yannik Bauer é programador de software e cria apps, websites e automações com IA. A sua app BTS Insights chegou a ~10.000 utilizadores em dois anos."
+ },
+ "Work by Yannik Bauer: BTS Insights, a pro bodybuilding app with ~10,000 users, and websites for local businesses in Germany.": {
+  "de": "Arbeiten von Yannik Bauer: BTS Insights, eine Profi-Bodybuilding-App mit ~10.000 Nutzern, und Websites für lokale Unternehmen in Deutschland.",
+  "pt": "Trabalho de Yannik Bauer: BTS Insights, uma app de culturismo profissional com ~10.000 utilizadores, e websites para negócios locais na Alemanha."
+ },
+ "Yannik Bauer's background: Master's in Computer Science from the University of Porto, research at INESC TEC, published papers and a master's thesis.": {
+  "de": "Werdegang von Yannik Bauer: Master in Informatik an der Universität Porto, Forschung am INESC TEC, veröffentlichte Paper und eine Masterarbeit.",
+  "pt": "Percurso de Yannik Bauer: mestrado em Ciência de Computadores na Universidade do Porto, investigação no INESC TEC, artigos publicados e uma dissertação de mestrado."
+ }
+}

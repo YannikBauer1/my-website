@@ -1,0 +1,36 @@
+# The website lives in site/. Paths below are relative to that folder.
+[build]
+  base = "site"
+  command = "npm run build"
+  publish = "dist"
+
+# "1" lets search engines index the site. "0" marks every page noindex (for previews before launch).
+[build.environment]
+  SITE_INDEX = "1"
+  NODE_VERSION = "22"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    X-Frame-Options = "SAMEORIGIN"
+    Permissions-Policy = "camera=(), microphone=(), geolocation=()"
+
+# Fonts never change under the same name.
+[[headers]]
+  for = "/fonts/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# Images, scripts and styles: cached for a day, refreshed in the background for a week.
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=86400, stale-while-revalidate=604800"
+
+# Branch and preview deploys must never be indexed.
+[context.deploy-preview.environment]
+  SITE_INDEX = "0"
+[context.branch-deploy.environment]
+  SITE_INDEX = "0"
